@@ -1,2 +1,0 @@
-# JenkinsPipelineDemoSIT753
-JenkinsPipelineDemo
